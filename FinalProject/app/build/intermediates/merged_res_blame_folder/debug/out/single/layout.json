@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-mergeDebugResources-48:\\layout\\item_chat.xml",
+        "source": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-main-51:\\layout\\item_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-mergeDebugResources-48:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-main-51:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "gobejishvili.zangurashvili.finalproject.app-mergeDebugResources-48:/layout/activity_chat_panel.xml",
+        "source": "gobejishvili.zangurashvili.finalproject.app-main-51:/layout/activity_chat_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-mergeDebugResources-48:\\layout\\activity_chat_panel.xml",
+        "source": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-main-51:\\layout\\activity_chat_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ngobejishvili\\.gradle\\daemon\\7.5\\gobejishvili.zangurashvili.finalproject.app-main-51:\\layout\\activity_main.xml"
+    }
+]
